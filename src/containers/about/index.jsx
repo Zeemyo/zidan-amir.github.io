@@ -36,6 +36,10 @@ const personalDetails = [
         label: "Hobby",
         value: "Gaming, Learn New things, 3D modelling"
     },
+    {
+        label: "Favorite things",
+        value: "Astronomy, Spaces, Stars, Milky way"
+    },
 ]
 
 const About = () => {
