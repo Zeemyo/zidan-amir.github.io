@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Wix+Madefor+Text:wght@500&display=swap");
+
+:root {
+  --cyan-theme-background-color: linear-gradient(
+    to bottom,
+    #262a56,
+    #0c0f2c,
+    #000000
+  );
+  --cyan-theme-main-color: #f05454;
+  --cyan-theme-nav-background-color: #071622;
+  --cyan-theme-sub-text-color: #d6e6ff;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+}
+
+html {
+  font-size: 62.5%;
+  height: 100%;
+}
+
+body {
+  background: var(--cyan-theme-background-color);
+  height: 100vh;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+#root {
+  height: 100%;
+}
