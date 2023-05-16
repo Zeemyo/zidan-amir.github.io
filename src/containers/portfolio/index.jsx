@@ -43,7 +43,7 @@ const portfolioData = [
         id: 2,
         name: "Clothing E-commerce Website",
         image: ImageFive,
-        desc: "This is me and my 3 other friends to build an E-commerce that sells T-shirts, we got this project from our lecturer on campus. And this project is still in progress",
+        desc: "This project was developed by 3 of my friends and me. This project was about clothing E-commerce , we got this project from our lecturer on campus. And this project is still in progress",
         link: "https://drive.google.com/drive/folders/1t8J7Kt5gB9Elf5ha0sgD6DKhX7x6qqGZ?usp=share_link",
     },
 ];
