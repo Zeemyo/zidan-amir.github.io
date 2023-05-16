@@ -1,6 +1,6 @@
 import React from "react";
 import PageHeaderContent from "../../components/pageHeaderContent";
-import { BsPhone } from "react-icons/bs";
+import { BsMailbox2, BsPhoneFill } from "react-icons/bs";
 import { FaLinkedin, FaGithub, FaGitlab, FaInstagram } from "react-icons/fa";
 import { Animate } from "react-simple-animate";
 import "./style.scss";
@@ -27,41 +27,84 @@ const Contact = () => {
                     <div className="contact__content__form">
                         <div className="contact__content__form__controlswrapper">
                             <div className="contact__social-icons">
-                                <a
-                                    href="https://www.linkedin.com/in/zidan-alamsyah-amir/"
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                >
-                                    <FaLinkedin size={100} className="linkedin-icon" />
-                                    <h3>  Zidan Alamsyah Amir</h3>
-                                </a>
+                                <div className="top-icons">
 
-                                <a
-                                    href="https://github.com/Zeemyo"
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                >
-                                    <FaGithub size={100} className="github-icon" />
-                                    <h3>  Zeemyo</h3>
-                                </a>
+                                    <a
+                                        href="https://wa.link/5fcmh7"
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                    >
+                                        <BsPhoneFill size={100} className="phone-icon" />
+                                        <h3>  +6285157113317</h3>
+                                    </a>
+                                    <br></br>
+                                    <br></br>
+                                    <br></br>
+                                    <br></br>
+                                    <br></br>
+                                    <br></br>
+                                    <a
+                                        href="https://www.linkedin.com/in/zidan-alamsyah-amir/"
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                    >
+                                        <FaLinkedin size={100} className="linkedin-icon" />
+                                        <h3>  Zidan Alamsyah Amir</h3>
+                                    </a>
+                                </div>
 
-                                <a
-                                    href="https://gitlab.com/Zeemyo"
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                >
-                                    <FaGitlab size={100} className="gitlab-icon" />
-                                    <h3>  Zeemyo</h3>
-                                </a>
+                                <div>
+                                    <a
+                                        href="https://wa.link/5fcmh7"
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                    >
+                                        <BsMailbox2 size={100} className="mail-icon" />
+                                        <h3>  zidanalam96@gmail.com</h3>
+                                    </a>
+                                    <br></br>
+                                    <br></br>
+                                    <br></br>
+                                    <br></br>
+                                    <br></br>
+                                    <br></br>
+                                    <a
+                                        href="https://github.com/Zeemyo"
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                    >
+                                        <FaGithub size={100} className="github-icon" />
+                                        <h3>  Zeemyo</h3>
+                                    </a>
 
-                                <a
-                                    href="https://www.instagram.com/zeemyo/"
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                >
-                                    <FaInstagram size={100} className="instagram-icon" />
-                                    <h3>  @Zeemyo</h3>
-                                </a>
+                                </div>
+
+
+                                <div className="bottom-icons">
+
+                                    <a
+                                        href="https://www.instagram.com/zeemyo/"
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                    >
+                                        <FaInstagram size={100} className="instagram-icon" />
+                                        <h3>  @Zeemyo</h3>
+                                    </a>
+                                    <br></br>
+                                    <br></br>
+                                    <br></br>
+                                    <br></br>
+                                    <br></br>
+                                    <br></br>
+                                    <a
+                                        href="https://gitlab.com/Zeemyo"
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                    >
+                                        <FaGitlab size={100} className="gitlab-icon" />
+                                        <h3>  Zeemyo</h3>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                     </div>

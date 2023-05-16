@@ -15,7 +15,7 @@ $secondary-color: #6c757d;
             display: flex;
             align-items: center;
             justify-content: center;
-            margin-top: 7.5%;
+            margin-top: 2%;
             font-size: 36px;
             color: #f05454;
             text-transform: uppercase;
@@ -110,11 +110,33 @@ $secondary-color: #6c757d;
     }
 
     &__social-icons {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        margin-top: -23%;
-        padding-top: 30%;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(2, auto);
+        justify-items: center;
+        grid-gap: 20px;
+
+        a {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+
+        .top-icons a:nth-child(3n+1),
+        .bottom-icons a:nth-child(3n+1) {
+            grid-column: 1;
+        }
+
+        .top-icons a:nth-child(3n+2),
+        .bottom-icons a:nth-child(3n+2) {
+            grid-column: 2;
+        }
+
+        .top-icons a:nth-child(3n+3),
+        .bottom-icons a:nth-child(3n+3) {
+            grid-column: 3;
+        }
 
         h3 {
             font-size: 3rem;
