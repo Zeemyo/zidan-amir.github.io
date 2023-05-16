@@ -55,7 +55,7 @@ const Contact = () => {
 
                                 <div>
                                     <a
-                                        href="https://wa.link/5fcmh7"
+                                        href="https://mail.google.com/mail/u/zidanalam96@gmail.com/#inbox?compose=new"
                                         target="_blank"
                                         rel="noopener noreferrer"
                                     >
