@@ -21,29 +21,30 @@ const portfolioData = [
     {
         id: 2,
         name: "Cat Forum Web",
+        image: ImageTwo,
         link: "https://github.com/Zeemyo/cat-forum.git",
         desc: "I can't run the project but I still had the sources",
-        image: ImageTwo,
+
     },
     {
         id: 2,
         name: "Meowrachasite or Cat Custody Web",
         image: ImageThree,
         desc: "I made this website with my partner as an 3nd years student. Made by laravel 8 and integrated with Midtrans for the adoption transaction",
-        link: "https://drive.google.com/drive/folders/1J5y2VqKFZFgeXB8xAaGCEVqugapjE5kc?usp=share_link",
+        link: "https://github.com/Zeemyo/Web-meowrachasite",
     },
     {
         id: 2,
         name: "Review Algorithm of Restaurant Web",
         image: ImageFour,
         desc: "This project is not really about building the website, I just need to resolve the algorithm behind this project when I was a 1st year student",
-        link: "https://drive.google.com/drive/folders/1Wg7MXLTps2-js7bxP_uvJq98cDepptu3?usp=share_link",
+        link: "https://github.com/Zeemyo/restoran_native/tree/master",
     },
     {
         id: 2,
         name: "Clothing E-commerce Website",
         image: ImageFive,
-        desc: "This project was developed by 3 of my friends and me. This project was about clothing E-commerce , we got this project from our lecturer on campus. And this project is still in progress",
+        desc: "This project was developed by 3 of my friends and me. This project was about clothing E-commerce , we got this project from our lecturer on campus, this project is still in progress And I can't give the resource code for this one",
         link: "https://drive.google.com/drive/folders/1t8J7Kt5gB9Elf5ha0sgD6DKhX7x6qqGZ?usp=share_link",
     },
 ];
