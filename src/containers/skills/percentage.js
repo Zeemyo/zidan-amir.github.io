@@ -16,7 +16,7 @@ export const skillPercentage = [
         label: "skill 2",
         data: [{
             skillName: "CSS",
-            percentage: "80"
+            percentage: "90"
         },
         {
             skillName: "GO Language",
