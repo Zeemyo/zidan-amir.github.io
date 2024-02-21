@@ -40,13 +40,6 @@ const portfolioData = [
         desc: "This project is not really about building the website, I just need to resolve the algorithm behind this project when I was a 1st year student",
         link: "https://github.com/Zeemyo/restoran_native/tree/master",
     },
-    {
-        id: 2,
-        name: "Clothing E-commerce Website",
-        image: ImageFive,
-        desc: "This project was developed by 3 of my friends and me. This project was about clothing E-commerce , we got this project from our lecturer on campus, this project is still in progress And I can't give the resource code for this one",
-        link: "https://drive.google.com/drive/folders/1t8J7Kt5gB9Elf5ha0sgD6DKhX7x6qqGZ?usp=share_link",
-    },
 ];
 
 const filterData = [
