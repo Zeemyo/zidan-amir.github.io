@@ -35,7 +35,7 @@ const portfolioData = [
     },
     {
         id: 2,
-        name: "Review Algorithm of Restaurant Web",
+        name: "Ambatukam",
         image: ImageFour,
         desc: "This project is not really about building the website, I just need to resolve the algorithm behind this project when I was a 1st year student",
         link: "https://github.com/Zeemyo/restoran_native/tree/master",
