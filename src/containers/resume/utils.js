@@ -14,13 +14,6 @@ export const data = {
                 "Web development, MVC, PhpMyAdmin,",
             date: "2021 - 2023"
         },
-        {
-            title: "Frontend for Seragam Pos Id",
-            subTitle: "| Remote, Indonesia",
-            description:
-                "Clothing E-commerce",
-            date: "2023 - Work in Progress"
-        },
     ],
     education: [
         {
