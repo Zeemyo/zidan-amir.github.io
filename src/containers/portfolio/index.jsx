@@ -14,7 +14,7 @@ const portfolioData = [
     {
         id: 3,
         name: "Fiverr",
-        desc: "From this freelance I already made around $1,400",
+        desc: "From this freelance I already made around $1,864",
         image: ImageOne,
         link: "https://docs.google.com/spreadsheets/d/1PPEsqbGQ6ATbjaj8sIDJtUbAq5RGyDM7zOHQlPrYb24/edit?usp=sharing",
     },
@@ -35,7 +35,7 @@ const portfolioData = [
     },
     {
         id: 2,
-        name: "Ambatukam",
+        name: "Review Algorithm of Restaurant Web",
         image: ImageFour,
         desc: "This project is not really about building the website, I just need to resolve the algorithm behind this project when I was a 1st year student",
         link: "https://github.com/Zeemyo/restoran_native/tree/master",
