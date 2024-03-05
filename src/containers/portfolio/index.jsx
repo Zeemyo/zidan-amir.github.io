@@ -23,7 +23,7 @@ const portfolioData = [
         name: "Cat Forum Web",
         image: ImageTwo,
         link: "https://github.com/Zeemyo/cat-forum.git",
-        desc: "I can't run the project but I still had the sources",
+        desc: "I can't run the project because some of the resources are missing",
 
     },
     {
@@ -39,6 +39,13 @@ const portfolioData = [
         image: ImageFour,
         desc: "This project is not really about building the website, I just need to resolve the algorithm behind this project when I was a 1st year student",
         link: "https://github.com/Zeemyo/restoran_native/tree/master",
+    },
+    {
+        id: 2,
+        name: "Query Analyzer Using Django Framework",
+        image: ImageFive,
+        desc: "This project was about analyzing the complexity and effecient of SQL Queries using Django Framework.",
+        link: "https://query-analyzer-zidanamir.carrd.co/",
     },
 ];
 
