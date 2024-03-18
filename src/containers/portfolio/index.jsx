@@ -7,6 +7,7 @@ import ImageTwo from "../../images/image2.jpg";
 import ImageThree from "../../images/image3.jpg";
 import ImageFour from "../../images/image4.jpg";
 import ImageFive from "../../images/image5.jpg";
+import ImageSix from "../../images/image6.jpg";
 import "./style.scss";
 import { useState } from "react";
 
@@ -14,9 +15,16 @@ const portfolioData = [
     {
         id: 3,
         name: "Fiverr",
-        desc: "From this freelance I already made around $1,864",
+        desc: "From this freelance I already made around $2k+",
         image: ImageOne,
         link: "https://drive.google.com/file/d/1EgcrsiyO6m5y2THOCFxLCvo7BJOWslEL/view?usp=sharing",
+    },
+    {
+        id: 3,
+        name: "Sertifications",
+        desc: "This is a pool of my sertifications",
+        image: ImageSix,
+        link: "https://drive.google.com/drive/folders/1Uafb0VkdwfWv8qt4KVvJ_tSIezcjVqSK?usp=sharing",
     },
     {
         id: 2,

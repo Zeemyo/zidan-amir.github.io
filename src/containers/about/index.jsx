@@ -34,7 +34,7 @@ const personalDetails = [
     },
     {
         label: "Hobby",
-        value: "Gaming, Learn New things, 3D modelling"
+        value: "Learn New things, 3D modelling, Photo Editing"
     },
     {
         label: "Favorite things",
