@@ -16,14 +16,14 @@ const portfolioData = [
         name: "Fiverr",
         desc: "From this freelance I already made around $1,864",
         image: ImageOne,
-        link: "https://docs.google.com/spreadsheets/d/1PPEsqbGQ6ATbjaj8sIDJtUbAq5RGyDM7zOHQlPrYb24/edit?usp=sharing",
+        link: "https://drive.google.com/file/d/1EgcrsiyO6m5y2THOCFxLCvo7BJOWslEL/view?usp=sharing",
     },
     {
         id: 2,
         name: "Cat Forum Web",
         image: ImageTwo,
         link: "https://github.com/Zeemyo/cat-forum.git",
-        desc: "I can't run the project because some of the resources are missing",
+        desc: "I make this forum kinda like website for all of the cat lovers to sharing about their experience, information, advice and etc to other member of this website ",
 
     },
     {
