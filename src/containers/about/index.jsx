@@ -61,7 +61,7 @@ const About = () => {
                         end={{
                             transform: 'translateX(0px)'
                         }}>
-                        <h3>Undergraduate Students of Informatics Engineering | Front-end Developer | Freelancer Game Designer at Fiverr</h3>
+                        <h3>Undergraduate Students of Informatics Engineering | Software Developer | Freelancer Game Designer at Fiverr</h3>
                         <p>{summary}</p>
                     </Animate>
 
