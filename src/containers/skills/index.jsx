@@ -1,5 +1,4 @@
 import React from "react";
-import { Line } from "rc-progress";
 import { BsFillPersonLinesFill } from 'react-icons/bs';
 import PageHeaderContent from "../../components/pageHeaderContent";
 import { Animate, AnimateKeyframes } from 'react-simple-animate';
