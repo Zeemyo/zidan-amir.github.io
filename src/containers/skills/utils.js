@@ -11,16 +11,16 @@ export const skillsData = [
     {
         data: [
             {
-                label: "HTML",
-                value: "Know almost everything, and ofcourse also need to see other peoples documentations",
+                label: "HTML & CSS",
+                value: "Know how to deal with it, but still need to see the documentations, tutorials, etc",
             }
         ]
     },
     {
         data: [
             {
-                label: "CSS",
-                value: "Know how to deal with it, but still need to see the documentations, tutorials, etc",
+                label: "MongoDB",
+                value: "Know how to connect projects with MongoDB database and make some crud like function to manage data",
             }
         ]
     },
