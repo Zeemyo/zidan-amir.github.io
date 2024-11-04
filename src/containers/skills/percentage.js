@@ -1,45 +1,33 @@
 export const skillPercentage = [
 
     {
-        label: "skill 1",
+        label: "skills",
         data: [{
             skillName: "Python"
         },
         {
             skillName: "MongoDB"
-        }
-        ]
-    },
-    {
-        label: "skill 2",
-        data: [{
+        },
+        {
             skillName: "HTML & CSS"
         },
         {
             skillName: "GO Language"
-        }
-        ]
-    },
-    {
-        label: "skill 3",
-        data: [{
+        },
+        {
             skillName: "ReactJS"
         },
         {
             skillName: "PhpMyAdmin"
+        },
+        {
+            skillName: "3D Modelling",
+        },
+        {
+            skillName: "Git",
         }
         ]
     },
-    {
-        label: "Skill 5",
-        data: [
-            {
-                skillName: "3D Modelling",
-            },
-            {
-                skillName: "Git",
-            }]
-    }
 ];
 
 
