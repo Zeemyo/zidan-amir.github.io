@@ -43,13 +43,6 @@ const Skills = () => {
                                                     <p>
                                                         {skillPercentage.skillName}
                                                     </p>
-                                                    <Line
-                                                        percent={skillPercentage.percentage}
-                                                        strokeWidth="2"
-                                                        strokeColor="var(--cyan-theme-main-color)"
-                                                        trailWidth="2"
-                                                        strokeLinecap="square"
-                                                    />
                                                 </div>
                                             </AnimateKeyframes>
                                         )
