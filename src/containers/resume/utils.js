@@ -4,15 +4,29 @@ export const data = {
             title: "Freelancer at Fiverr",
             subTitle: "| Jakarta, Indonesia",
             description:
-                " 3D Modelling, Landscape Art Artist",
+                " 3D Modelling for games such as Minecraft or other Pixelated Games",
             date: "2021 - Present"
         },
         {
             title: "Junior Webdev at Politeknik Pos",
             subTitle: "| Bandung, Indonesia",
             description:
-                "Web development, MVC, PhpMyAdmin,",
+                "Web development, MVC, PhpMyAdmin, Git",
             date: "2021 - 2023"
+        },
+        {
+            title: "Full-Stack Webdev",
+            subTitle: "| South Jakarta, Indonesia",
+            description:
+                "Web development, Python, MVC, Django",
+            date: "July 2023 - October 2023"
+        },
+        {
+            title: "Software Quality Assurance",
+            subTitle: "| North Jakarta, Indonesia",
+            description:
+                "Web development, Python, MVC, Fastapi, MongoDB, JWT Authentication, Git, Railways Deployment",
+            date: "April 2024 - December 2024"
         },
     ],
     education: [
@@ -34,8 +48,8 @@ export const data = {
             title: "Student",
             subTitle: "at Universitas Logistik dan Bisnis Internasional",
             description:
-                "Undergraduate Students of Informatics Engineering",
-            date: "2020 - Present"
+                "Fresh Graduate Students of Informatics Engineering with 3.50 GPA",
+            date: "2020 - 2024"
         },
     ],
 };

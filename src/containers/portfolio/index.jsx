@@ -8,6 +8,7 @@ import ImageThree from "../../images/image3.jpg";
 import ImageFour from "../../images/image4.jpg";
 import ImageFive from "../../images/image5.jpg";
 import ImageSix from "../../images/image6.jpg";
+import ImageSeven from "../../images/image7.jpg";
 import "./style.scss";
 import { useState } from "react";
 
@@ -23,7 +24,7 @@ const portfolioData = [
         id: 3,
         name: "Sertifications",
         desc: "This is a pool of my sertifications",
-        image: ImageSix,
+        image: ImageSeven,
         link: "https://drive.google.com/drive/folders/1Uafb0VkdwfWv8qt4KVvJ_tSIezcjVqSK?usp=sharing",
     },
     {
@@ -55,6 +56,13 @@ const portfolioData = [
         desc: "This project was about analyzing the complexity and effecient of SQL Queries using Django Framework.",
         link: "https://query-analyzer-zidanamir.carrd.co/",
     },
+    {
+        id: 2,
+        name: "Excel to XML Tax File Converter",
+        image: ImageSix,
+        desc: "This website project for converting excel files that contains data of taxes and convert it to XML files for taxes reporting and it using XML format and for other things such as to protect data with XML format.",
+        link: "https://pelindo-excel-xml-converter.carrd.co/",
+    }
 ];
 
 const filterData = [

@@ -5,11 +5,11 @@ import { Animate } from 'react-simple-animate';
 import { FaPython, FaReact, FaNodeJs, FaPhp } from 'react-icons/fa';
 import './style.scss';
 
-const summary = `I have been working as a freelancer on fiverr as a game designer with 1 month and 8 months of experience, and I know clearly how to behave as a worker and how to deal with clients on fiverr. the award I have received on fiverr is rank level 1 by completing the tasks given on fiverr itself. \n
+const summary = `I have been working as a freelancer on fiverr as a game designer with 2+ years experience, and I know clearly how to behave as a worker and how to deal with clients on fiverr. the award I have received on fiverr is rank level 2 by completing the tasks given on fiverr itself. \n
 
-Then in terms of skills I am more inclined to design, so I am trying to become a Front-end programmer, and designing games I am also still active for things like hobbies or freelance. \n
+Then in terms of skills I am more inclined to design, so I am trying to become a Full-Stack Programmer, and designing games I am also still active for things like hobbies or freelance. \n
 
-For the future, I am trying to find a company that can accept me based on my abilities, as a front-end developer.`;
+For the future, I am trying to find a company that can accept me based on my abilities, as a Front-end developer, Back-end developer or Full-Stack Developer.`;
 
 const personalDetails = [
     {
@@ -18,7 +18,7 @@ const personalDetails = [
     },
     {
         label: "Age",
-        value: "22"
+        value: "23"
     },
     {
         label: "Address",
@@ -61,7 +61,7 @@ const About = () => {
                         end={{
                             transform: 'translateX(0px)'
                         }}>
-                        <h3>Undergraduate Students of Informatics Engineering | Software Developer | Freelancer Game Designer at Fiverr</h3>
+                        <h3>Fresh Graduate Student of Informatics Engineering | Website Developer | Freelancer Game Designer at Fiverr</h3>
                         <p>{summary}</p>
                     </Animate>
 

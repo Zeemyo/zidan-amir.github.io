@@ -20,7 +20,7 @@ const Home = () => {
                 <h1>
                     Hello, I'm Zidan
                     <br />
-                    A Software Developer
+                    A Website Developer
                 </h1>
             </div>
             <Animate
