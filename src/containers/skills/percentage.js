@@ -1,7 +1,7 @@
 export const skillPercentage = [
 
     {
-        label: "Row 1",
+        label: "",
         data: [{
             skillName: "Python"
         },
@@ -11,7 +11,7 @@ export const skillPercentage = [
         ]
     },
     {
-        label: "Row 2",
+        label: "",
         data: [{
             skillName: "HTML & CSS"
         },
@@ -21,7 +21,7 @@ export const skillPercentage = [
         ]
     },
     {
-        label: "Row 3",
+        label: "",
         data: [{
             skillName: "ReactJS"
         },
@@ -31,7 +31,7 @@ export const skillPercentage = [
         ]
     },
     {
-        label: "Row 4",
+        label: "",
         data: [
             {
                 skillName: "3D Modelling",
