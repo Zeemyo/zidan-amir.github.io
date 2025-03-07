@@ -13,13 +13,13 @@ import "./style.scss";
 import { useState } from "react";
 
 const portfolioData = [
-    {
-        id: 3,
-        name: "Fiverr",
-        desc: "From this freelance I already made around $2k+",
-        image: ImageOne,
-        link: "https://drive.google.com/file/d/1EgcrsiyO6m5y2THOCFxLCvo7BJOWslEL/view?usp=sharing",
-    },
+    // {
+    //     id: 3,
+    //     name: "Fiverr",
+    //     desc: "From this freelance I already made around $2k+",
+    //     image: ImageOne,
+    //     link: "https://drive.google.com/file/d/1EgcrsiyO6m5y2THOCFxLCvo7BJOWslEL/view?usp=sharing",
+    // },
     {
         id: 3,
         name: "Sertifications",
@@ -27,14 +27,14 @@ const portfolioData = [
         image: ImageSeven,
         link: "https://drive.google.com/drive/folders/1Uafb0VkdwfWv8qt4KVvJ_tSIezcjVqSK?usp=sharing",
     },
-    {
-        id: 2,
-        name: "Cat Forum Web",
-        image: ImageTwo,
-        link: "https://github.com/Zeemyo/cat-forum.git",
-        desc: "I make this forum kinda like website for all of the cat lovers to sharing about their experience, information, advice and etc to other member of this website ",
+    // {
+    //     id: 2,
+    //     name: "Cat Forum Web",
+    //     image: ImageTwo,
+    //     link: "https://github.com/Zeemyo/cat-forum.git",
+    //     desc: "I make this forum kinda like website for all of the cat lovers to sharing about their experience, information, advice and etc to other member of this website ",
 
-    },
+    // },
     {
         id: 2,
         name: "Meowrachasite or Cat Custody Web",
@@ -53,14 +53,14 @@ const portfolioData = [
         id: 2,
         name: "Query Analyzer Using Django Framework",
         image: ImageFive,
-        desc: "This project was about analyzing the complexity and effecient of SQL Queries using Django Framework.",
+        desc: "This project was about analyzing the complexity and effecient of SQL Queries using Django Framework. Cannot share this project since it's owned by the company",
         link: "https://query-analyzer-zidanamir.carrd.co/",
     },
     {
         id: 2,
         name: "Excel to XML Tax File Converter",
         image: ImageSix,
-        desc: "This website project for converting excel files that contains data of taxes and convert it to XML files for taxes reporting and it using XML format and for other things such as to protect data with XML format.",
+        desc: "This website project for converting excel files that contains data of taxes and convert it to XML files for taxes reporting and it using XML format and for other things such as to protect data with XML format. Cannot share this project since it's owned by the company",
         link: "https://pelindo-excel-xml-converter.carrd.co/",
     }
 ];
