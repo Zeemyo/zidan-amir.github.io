@@ -25,7 +25,7 @@ const Home = () => {
             </div>
             <Animate
                 play
-                duration={2}
+                duration={1}
                 delay={0}
                 start={{
                     transform: 'scale(50%)'

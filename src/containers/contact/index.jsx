@@ -1,7 +1,6 @@
 import React from "react";
-import PageHeaderContent from "../../components/pageHeaderContent";
 import { BsMailbox2, BsPhoneFill } from "react-icons/bs";
-import { FaLinkedin, FaGithub, FaGitlab, FaInstagram } from "react-icons/fa";
+import { FaLinkedin, FaGithub } from "react-icons/fa";
 import { Animate } from "react-simple-animate";
 import "./style.scss";
 
@@ -15,7 +14,7 @@ const Contact = () => {
             <div className="contact__content">
                 <Animate
                     play
-                    duration={1}
+                    duration={0.5}
                     delay={0}
                     start={{
                         transform: "translateY(200px)",
@@ -79,32 +78,6 @@ const Contact = () => {
 
                                 </div>
 
-
-                                <div className="bottom-icons">
-
-                                    <a
-                                        href="https://www.instagram.com/zeemyo/"
-                                        target="_blank"
-                                        rel="noopener noreferrer"
-                                    >
-                                        <FaInstagram size={100} className="instagram-icon" />
-                                        <h3>  @Zeemyo</h3>
-                                    </a>
-                                    <br></br>
-                                    <br></br>
-                                    <br></br>
-                                    <br></br>
-                                    <br></br>
-                                    <br></br>
-                                    <a
-                                        href="https://gitlab.com/Zeemyo"
-                                        target="_blank"
-                                        rel="noopener noreferrer"
-                                    >
-                                        <FaGitlab size={100} className="gitlab-icon" />
-                                        <h3>  Zeemyo</h3>
-                                    </a>
-                                </div>
                             </div>
                         </div>
                     </div>

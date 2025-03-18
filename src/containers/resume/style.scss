@@ -30,15 +30,6 @@
             border-bottom: 2px solid var(--cyan-theme-main-color);
         }
 
-        &__header-text::before , &__header-text::after{
-            position: absolute;
-            content: '';
-            width: 2px;
-            height: 5px;
-            background-color: var(--cyan-theme-main-color);
-            bottom: -1px;
-        }
-
         &__header-text::before{
             left: 0;
         }

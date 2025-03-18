@@ -8,35 +8,21 @@ export const data = {
             date: "2021 - Present"
         },
         {
-            title: "Junior Webdev at Politeknik Pos",
-            subTitle: "| Bandung, Indonesia",
-            description:
-                "Web development, MVC, PhpMyAdmin, Git",
-            date: "2021 - 2023"
-        },
-        {
-            title: "Full-Stack Webdev",
+            title: "Intern Web Developer at PT. Bank Mandiri",
             subTitle: "| South Jakarta, Indonesia",
             description:
                 "Web development, Python, MVC, Django",
             date: "July 2023 - October 2023"
         },
         {
-            title: "Software Quality Assurance",
+            title: "Software Quality Assurance at PT. Pelindo",
             subTitle: "| North Jakarta, Indonesia",
             description:
                 "Web development, Python, MVC, Fastapi, MongoDB, JWT Authentication, Git, Railways Deployment",
-            date: "April 2024 - December 2024"
+            date: "March 2024 - March 2025"
         },
     ],
     education: [
-        {
-            title: "Middle School",
-            subTitle: "at SMPN 143 Jakarta",
-            description:
-                "78,75 Grade",
-            date: "2012 - 2015"
-        },
         {
             title: "High School",
             subTitle: "at SMA YAPPENDA Jakarta",
