@@ -9,6 +9,7 @@ import ImageFour from "../../images/image4.jpg";
 import ImageFive from "../../images/image5.jpg";
 import ImageSix from "../../images/image6.jpg";
 import ImageSeven from "../../images/image7.jpg";
+import ImageEight from "../../images/image8.png";
 import "./style.scss";
 import { useState } from "react";
 
@@ -51,9 +52,16 @@ const portfolioData = [
     },
     {
         id: 2,
+        name: "Review Algorithm of Restaurant Web",
+        image: ImageEight,
+        desc: "This is",
+        link: "https://plant-leaf-detection-1204057.streamlit.app/",
+    },
+    {
+        id: 2,
         name: "Query Analyzer Using Django Framework",
         image: ImageFive,
-        desc: "This project was about analyzing the complexity and effecient of SQL Queries using Django Framework. Cannot share this project since it's owned by the company",
+        desc: "This is the last project or final project of the campus, where this application aims to detect several plant diseases from the appearance of their leaves",
         link: "https://query-analyzer-zidanamir.carrd.co/",
     },
     {
