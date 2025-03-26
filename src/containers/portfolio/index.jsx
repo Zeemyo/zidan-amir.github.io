@@ -54,14 +54,14 @@ const portfolioData = [
         id: 2,
         name: "Review Algorithm of Restaurant Web",
         image: ImageEight,
-        desc: "This is",
+        desc: "This is the last project or final project of the campus, where this application aims to detect several plant diseases from the appearance of their leaves",
         link: "https://plant-leaf-detection-1204057.streamlit.app/",
     },
     {
         id: 2,
         name: "Query Analyzer Using Django Framework",
         image: ImageFive,
-        desc: "This is the last project or final project of the campus, where this application aims to detect several plant diseases from the appearance of their leaves",
+        desc: "This project was about analyzing the complexity and effecient of SQL Queries using Django Framework. Cannot share this project since it's owned by the company",
         link: "https://query-analyzer-zidanamir.carrd.co/",
     },
     {
